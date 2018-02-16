@@ -24,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="recommendations.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="recommendations.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/_region/_name/_babynames/recommendations.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -32,6 +32,16 @@
               <folding>
                 <element signature="e#838#864#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="449">
+              <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,6 +128,7 @@
         <option value="$PROJECT_DIR$/pages/_region/_name/index.vue" />
         <option value="$PROJECT_DIR$/pages/_region/index.vue" />
         <option value="$PROJECT_DIR$/pages/_region/_name/_babynames/recommendations.vue" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -163,43 +174,6 @@
               <item name="namesilike" type="b2602c69:ProjectViewProjectNode" />
               <item name="namesilike" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name=".nuxt" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="namesilike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="namesilike" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="namesilike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="namesilike" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="namesilike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="namesilike" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_region" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="namesilike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="namesilike" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_region" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_name" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="namesilike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="namesilike" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_region" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_name" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_babynames" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="namesilike" type="b2602c69:ProjectViewProjectNode" />
-              <item name="namesilike" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="about" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -259,12 +233,12 @@
       <workItem from="1518522356856" duration="825000" />
       <workItem from="1518683261160" duration="6000" />
       <workItem from="1518786837246" duration="1127000" />
-      <workItem from="1518789656251" duration="3892000" />
+      <workItem from="1518789656251" duration="4029000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5850000" />
+    <option name="totallyTimeSpent" value="5987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -457,6 +431,14 @@
           <folding>
             <element signature="e#838#864#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
