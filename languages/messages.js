@@ -1,7 +1,7 @@
 let languages = {
   en: require('./uk/language'),
-  french: require('./fr/language'),
-  dutch: require('./dutch/language')
+  fr: require('./fr/language'),
+  nl: require('./dutch/language')
 };
 
 module.exports = languages;

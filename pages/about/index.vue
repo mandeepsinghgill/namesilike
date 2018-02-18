@@ -1,13 +1,18 @@
 <template>
   <section class="container">
-    <navbar></navbar>
     <p>{{ $t('content.info.title') }}</p>
   </section>
 </template>
 <script>
-  import Navbar from '../../components/common/navbar'
 
   export default {
-    components: {Navbar}
+    head() {
+      return {
+        title: this.$t('content.info.title'),
+        meta: [
+          {hid: 'description', name: 'description', content: 'My custom description'}
+        ]
+      }
+    }
   }
 </script>

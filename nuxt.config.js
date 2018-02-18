@@ -46,11 +46,11 @@ module.exports = {
           name: 'English UK'
         },
         {
-          code: 'french',
+          code: 'fr',
           iso: 'fr-FR',
           name: 'Français'
         }, {
-          code: 'dutch',
+          code: 'nl',
           iso: 'nl',
           name: 'vlaanderen'
         }

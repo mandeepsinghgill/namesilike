@@ -8,7 +8,7 @@ let dutch = {
   content: {
     siteDescription: 'Trouvez un nom de bÃ©bÃ© qui vous plaÃ®t Ã  l\'aide de statistiques et d\'un algorithme malin.',
     info: {
-      title: 'What\'s in a name?',
+      title: 'Wat is de naam ?',
       content: 'A lot! A name has so many characteristics.\n' +
       '\n' +
       'Amongst the most obvious ones are the length, the origin and the meaning. Vik is close to Vic, but very different compared to Antonio don\'t you think?\n' +
