@@ -1,6 +1,5 @@
 const pkg = require('./package');
-let en = require('./languages/uk/titles');
-let fr = require('./languages/fr/titles');
+let languages = require('./languages/messages');
 
 module.exports = {
   mode: 'universal',
@@ -47,16 +46,19 @@ module.exports = {
           name: 'English UK'
         },
         {
-          code: 'fr',
+          code: 'french',
           iso: 'fr-FR',
           name: 'Français'
+        }, {
+          code: 'dutch',
+          iso: 'nl',
+          name: 'vlaanderen'
         }
       ],
       defaultLocale: 'en',
       vueI18n: {
         messages: {
-          en,
-          fr
+          ...languages
         }
       }
     }],

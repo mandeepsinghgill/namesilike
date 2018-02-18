@@ -9,14 +9,14 @@
           <nuxt-link class="navbar-item" :to="switchLocalePath('en')">
             UK
           </nuxt-link>
-          <nuxt-link class="navbar-item" :to="switchLocalePath('fr')">
-            France
+          <nuxt-link class="navbar-item" :to="switchLocalePath('french')">
+            Wallonia
           </nuxt-link>
-          <nuxt-link class="navbar-item" to="Vlaanderen">
+          <nuxt-link class="navbar-item" :to="switchLocalePath('dutch')">
             Vlaanderen
           </nuxt-link>
           <nuxt-link class="navbar-item" to="Wallonie">
-            Wallonie
+            Netherlands
           </nuxt-link>
         </div>
       </div>
@@ -27,7 +27,7 @@
         <div class="field is-grouped">
           <p class="control">
             <nuxt-link class="button is-info"
-               to="about">
+               :to="localePath('about')">
               <span class="icon">
                 <i class="fa fa-info"></i>
               </span>
@@ -45,7 +45,7 @@
             </nuxt-link>
           </p>
           <p class="control">
-            <nuxt-link class="button is-danger" to="/">
+            <nuxt-link class="button is-danger" :to="localePath('index')">
               <span class="icon">
                 <i class="fa fa-home"></i>
               </span>

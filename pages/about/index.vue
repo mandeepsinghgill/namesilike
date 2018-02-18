@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <navbar></navbar>
-
+    <p>{{ $t('content.info.title') }}</p>
   </section>
 </template>
 <script>
