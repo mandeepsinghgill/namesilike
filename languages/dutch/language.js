@@ -1,7 +1,11 @@
 let dutch = {
   home: 'Accueil',
   about: 'À propos',
-  statics: 'statique',
+  statics: {
+    title: 'Statistieken',
+    description: 'Zoek naar de statistieken van jouw favoriete naam',
+    textPlaceholder: 'Zoek op naam'
+  },
   titles: {
     main: 'Noms que j\'aime'
   },

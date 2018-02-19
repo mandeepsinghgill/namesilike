@@ -37,14 +37,18 @@
               </span>
               </nuxt-link>
             </p>
-            <p class="control">
-              <nuxt-link class="button is-primary" :to="localePath('statics')">
+            <div class="control">
+              <div v-if="locale.code === $i18n.locale" :key="index" v-for="(locale, index) in $i18n.locales">
+
+                  <nuxt-link class="button is-primary" :to="localePath('babynames-statistics')">
               <span class="icon">
                 <i class="fa fa-line-chart"></i>
               </span>
-                <span>Statics</span>
-              </nuxt-link>
-            </p>
+                    <span>Statics</span>
+                  </nuxt-link>
+
+              </div>
+            </div>
             <p class="control">
               <nuxt-link class="button is-danger" :to="localePath('index')">
               <span class="icon">

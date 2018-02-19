@@ -1,7 +1,11 @@
 let en = {
   home: 'Homepage',
   about: 'About us',
-  statics: 'statics',
+  statics: {
+    title: 'Our statistics',
+    description: 'Let our detailed information help you in finding a name',
+    textPlaceholder: 'Search a Name'
+  },
   titles: {
     main: 'Names i Like'
   },

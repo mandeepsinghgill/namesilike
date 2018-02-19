@@ -12,7 +12,7 @@
 </template>
 <script>
   import axios from "axios";
-  import recommend from '../../../../components/pages/recommend'
+  import recommend from '../../components/pages/recommend'
 
   export default {
     components: {

@@ -1,7 +1,11 @@
 let fr = {
   home: 'Accueil',
   about: 'À propos',
-  statics: 'statique',
+  statics: {
+    title: 'Nos statistiques',
+    description: 'Laissez nos informations détaillées vous aider dans la recherche d\'un nom',
+    textPlaceholder: 'Chercher un nom'
+  },
   titles: {
     main: 'Noms que j\'aime'
   },
