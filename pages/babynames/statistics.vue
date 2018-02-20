@@ -115,6 +115,7 @@
           this.asyncData = {
             pointStart: 1995,
             data: response.data.ts,
+            name: this.name,
             lineWidth: 3
           };
         });

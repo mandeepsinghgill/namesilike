@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92468a1e-02ea-43d0-b793-dd978a8c4088" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/pattern.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/buttons.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/scss/main.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/components/common/StaticsChart.js" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/components/common/navbar.vue" afterPath="$PROJECT_DIR$/components/common/navbar.vue" />
-      <change beforePath="$PROJECT_DIR$/components/pages/home.vue" afterPath="$PROJECT_DIR$/components/pages/home.vue" />
-      <change beforePath="$PROJECT_DIR$/languages/dutch/language.js" afterPath="$PROJECT_DIR$/languages/dutch/language.js" />
-      <change beforePath="$PROJECT_DIR$/languages/fr/language.js" afterPath="$PROJECT_DIR$/languages/fr/language.js" />
-      <change beforePath="$PROJECT_DIR$/languages/uk/language.js" afterPath="$PROJECT_DIR$/languages/uk/language.js" />
-      <change beforePath="$PROJECT_DIR$/layouts/default.vue" afterPath="$PROJECT_DIR$/layouts/default.vue" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.js" afterPath="$PROJECT_DIR$/nuxt.config.js" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/pages/babynames/recommendations.vue" afterPath="$PROJECT_DIR$/pages/babynames/recommendations.vue" />
       <change beforePath="$PROJECT_DIR$/pages/babynames/statistics.vue" afterPath="$PROJECT_DIR$/pages/babynames/statistics.vue" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +16,8 @@
       <file leaf-file-name="statistics.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/babynames/statistics.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+            <state relative-caret-position="118">
+              <caret line="113" column="27" lean-forward="true" selection-start-line="113" selection-start-column="27" selection-end-line="113" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -270,12 +254,12 @@
       <workItem from="1519022064105" duration="4553000" />
       <workItem from="1519051525598" duration="777000" />
       <workItem from="1519109455153" duration="11874000" />
-      <workItem from="1519134224674" duration="2049000" />
+      <workItem from="1519134224674" duration="2240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39512000" />
+    <option name="totallyTimeSpent" value="39703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -653,8 +637,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/babynames/statistics.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="118">
+          <caret line="113" column="27" lean-forward="true" selection-start-line="113" selection-start-column="27" selection-end-line="113" selection-end-column="27" />
           <folding />
         </state>
       </provider>
