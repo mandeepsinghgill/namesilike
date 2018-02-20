@@ -1,4 +1,5 @@
 const pkg = require('./package');
+const {join} = require('path');
 let languages = require('./languages/messages');
 
 module.exports = {
@@ -27,7 +28,9 @@ module.exports = {
   /*
   ** Global CSS
   */
-  css: [],
+  css: [
+    '@/assets/scss/main.scss'
+  ],
 
   /*
   ** Plugins to load before mounting the App

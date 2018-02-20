@@ -6,6 +6,9 @@ let dutch = {
     description: 'Zoek naar de statistieken van jouw favoriete naam',
     textPlaceholder: 'Zoek op naam'
   },
+  buttons: {
+    go: 'oke ga'
+  },
   titles: {
     main: 'Noms que j\'aime'
   },

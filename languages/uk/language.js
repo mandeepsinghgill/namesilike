@@ -6,6 +6,9 @@ let en = {
     description: 'Let our detailed information help you in finding a name',
     textPlaceholder: 'Search a Name'
   },
+  buttons: {
+    go: 'ok go'
+  },
   titles: {
     main: 'Names i Like'
   },

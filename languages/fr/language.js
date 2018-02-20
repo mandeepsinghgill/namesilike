@@ -6,6 +6,9 @@ let fr = {
     description: 'Laissez nos informations détaillées vous aider dans la recherche d\'un nom',
     textPlaceholder: 'Chercher un nom'
   },
+  buttons: {
+    go: 'ok aller'
+  },
   titles: {
     main: 'Noms que j\'aime'
   },

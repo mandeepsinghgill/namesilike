@@ -1,9 +1,6 @@
 <template>
     <div class="container">
         <div class="columns">
-
-        </div>
-        <div class="columns">
             <div class="column">
                 <recommend :datahavetoshow="mydata"></recommend>
             </div>
