@@ -11,4 +11,6 @@ npm-debug.log
 dist
 .idea
 .idea/workspace.xml
+.idea/*
 yarn.lock
+.DS_Store
