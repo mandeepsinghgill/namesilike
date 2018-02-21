@@ -2,7 +2,7 @@ let en = {
   home: 'Homepage',
   about: 'About us',
   statics: {
-    title: 'Our statistics',
+    title: 'statistics',
     description: 'Let our detailed information help you in finding a name',
     textPlaceholder: 'Search a Name'
   },
@@ -33,6 +33,11 @@ let en = {
       linkedInLink: '',
       facebookLink: ''
     }
+  },
+  graph: {
+    title: 'Populariteit in Vlaanderen',
+    subtitle: 'Aantal per 10.000',
+    meaning: 'Meaning'
   }
 };
 

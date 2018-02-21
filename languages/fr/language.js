@@ -2,7 +2,7 @@ let fr = {
   home: 'Accueil',
   about: 'À propos',
   statics: {
-    title: 'Nos statistiques',
+    title: 'statistiques',
     description: 'Laissez nos informations détaillées vous aider dans la recherche d\'un nom',
     textPlaceholder: 'Chercher un nom'
   },
@@ -33,6 +33,11 @@ let fr = {
       linkedInLink: '',
       facebookLink: ''
     }
+  },
+  graph: {
+    title: 'Populariteit in Vlaanderen',
+    subtitle: 'Aantal per 10.000',
+    meaning: 'Signification'
   }
 };
 

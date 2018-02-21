@@ -16,6 +16,7 @@
     "@nuxtjs/axios": "^5.0.1",
     "@nuxtjs/bulma": "^1.0.3",
     "@nuxtjs/font-awesome": "^1.0.3",
+    "buefy": "^0.6.3",
     "nuxt": "^1.0.0",
     "nuxt-i18n": "^2.2.4",
     "vue2-highcharts": "^1.1.6"

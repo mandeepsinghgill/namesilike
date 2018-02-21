@@ -33,6 +33,11 @@ let dutch = {
       linkedInLink: '',
       facebookLink: ''
     }
+  },
+  graph: {
+    title: 'Populariteit in Vlaanderen',
+    subtitle: 'Aantal per 10.000',
+    meaning: 'Betekenis'
   }
 };
 
