@@ -24,9 +24,6 @@
         name: null
       }
     },
-    mounted() {
-
-    },
     methods: {
       searchByName() {
         if (this.name) {
